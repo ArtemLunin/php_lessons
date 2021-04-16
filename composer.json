@@ -1,6 +1,8 @@
 {
     "require": {
         "guzzlehttp/guzzle": "^7.3",
-        "league/csv": "^9.7"
+        "league/csv": "^9.7",
+        "filp/whoops": "^2.12",
+        "monolog/monolog": "^2.2"
     }
 }
